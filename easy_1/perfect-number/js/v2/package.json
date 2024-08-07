@@ -1,0 +1,15 @@
+{
+  "name": "perfect-number-v2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A pkg for working with perfect numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torre",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.7.0"
+  }
+}
