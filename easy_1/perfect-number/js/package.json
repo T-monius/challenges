@@ -1,0 +1,18 @@
+{
+  "name": "perfect_number",
+  "version": "1.0.0",
+  "description": "Classify a number as perfect, abundant, or deficient",
+  "main": "perfect_number.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}

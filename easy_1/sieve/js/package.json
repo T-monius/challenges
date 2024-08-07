@@ -1,0 +1,15 @@
+{
+  "name": "sieve",
+  "version": "1.0.0",
+  "description": "A simple implementation of the 'Sieve of Eratosthenes'",
+  "type": "module",
+  "main": "sieve.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}

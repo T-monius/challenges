@@ -1,0 +1,18 @@
+{
+  "name": "word_count",
+  "version": "1.0.0",
+  "description": "Provide a word count for each word in a phrase.",
+  "main": "word_count.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
