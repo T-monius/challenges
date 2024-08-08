@@ -1,0 +1,15 @@
+{
+  "name": "trinary",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Convert a trinary number to decimal",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.0"
+  }
+}
