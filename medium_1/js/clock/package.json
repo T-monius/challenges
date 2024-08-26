@@ -1,0 +1,18 @@
+{
+  "name": "clock",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A pkg for working with a Clock having minute precision",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Torrel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
